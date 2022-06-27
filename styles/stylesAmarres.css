@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&display=swap');
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans','Lato' ;
+    font-size: 12px;
+}
+.section-amarres{
+    width:100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+}
+.img-01{
+ margin-left: 200px;
+    position: absolute;
+   
+    
+}
+.titulo-amarres{
+    position: absolute;
+    margin-bottom: 190px;
+    text-align: right;
+    padding-right: 659px;
+    font-weight: 600;
+    color: white;
+
+}
+.parrafo-amarres{
+    padding-left: 300px;
+    padding-right: 650px;
+    margin-bottom: -25px;
+    font-size: 16px;
+    color: white;
+    margin-right: 150px;
+}
+.section-desamarres{
+    width:100%;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 350px;
+   
+    background-color: black;
+}
+.img-02{
+    margin-left: 200px;
+    position: absolute;
+}
+.titulo-desamarres{
+    position: absolute;
+    margin-bottom: 190px;
+    text-align: right;
+    padding-right: 620px;
+    font-weight: 600;
+    color: white;
+
+}
+.parrafo-desamarres{
+    padding-left: 300px;
+    padding-right: 650px;
+    margin-bottom: -25px;
+    font-size: 16px;
+    color: white;
+    margin-right: 150px;
+}
+.endulces{
+    width:100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 400px;
+    padding-top: 300px;
+    background-color: black;
+    
+}
+main{
+    background-color: black;
+}
+.img-03{
+    margin-left: -200px;
+    position: absolute;
+}
+.titulo-endulces{
+    position: absolute;
+    margin-bottom: 140px;
+    text-align: right;
+    margin-left: 35px;
+    padding-right:-200px;
+    font-weight: 600;
+    color: white;
+}
+.parrafo-endulces{
+    padding-left: 100px;
+    padding-right: 750px;
+    font-size: 16px;
+    color: white;
+
+}
+
+.informacion-amarres1{
+    margin: 25px 75px 75px 75px;
+    text-align: left;
+    background-color: #eee;
+    padding: 20px 40px ;
+    box-shadow: 3px 5px .3px 1px rgba(212, 212, 212, 0.2);
+    margin-left: 300px;
+    
+}
+.informacion-amarres2{
+    margin: 25px 75px 75px 75px;
+    text-align: left;
+    background-color:#eee;
+    padding: 20px 40px ;
+    box-shadow: 3px 5px .3px 1px rgba(212, 212, 212, 0.2);
+    margin-right: 300px;
+}
+.informacion-amarres{
+    background-color: black;
+}
+.informacion-desamarres{
+    background-color: black;
+}
+.amarres-tituloo{
+    margin-bottom: 15px;
+}
+.amarres-title{
+    margin-bottom:15px ;
+}
+
+.informacion-desamarres1, .informacion-desamarres2, .informacion-desamarres3{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    position: relative;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    background-color: rgb(216, 216, 216);
+    box-shadow: 5px 9px .2px 1px rgb(196, 195, 195);
+    
+}
+.informacion-desamarres1{
+    margin-left: 200px;
+
+    
+}
+.informacion-desamarres3{
+    margin-right: 200px;
+}
+
+body{
+    overflow-x: hidden;
+}
+.img-03{
+    margin-left: 200px;
+    position: absolute;
+
+}
+.parrafo-endulces{
+    margin-top: 250px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+.titulo-endulces{
+    
+    margin-left: -360px;
+    margin-bottom: 220px;
+    font-weight: 600;
+}
+.btn8, .btn9{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: -1030px;
+    padding: 0px 100px;
+    font-size: 16px;
+}
+.btn10{
+    position: absolute;
+    margin-left: 355px;
+    margin-top: -310px;
+    padding: 0px 75px;
+    font-size: 16px;
+}
+.color{
+    background-color: #fd2921;
+    margin: 0 0;
+width: 150px;
+height: 3156px;
+position: absolute;
+}
+.color-2{
+    background-color:#fd2921;
+    margin: 0 ;
+width: 150px;
+height: 3156px;
+position: absolute;
+
+margin-left: 1199px;
+}
+body{
+    background-color: black;
+}

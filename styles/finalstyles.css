@@ -1,0 +1,1228 @@
+@media screen and (min-width:400px) and (max-width:500px){
+    #container{
+        margin-left: 750px;
+        margin-right: 2100px;
+    }
+    .color-2, .color{
+       display: none;
+    }
+    .zero-section-main, .first-section-main, .second-section-main, .contact-section-main{
+        margin-left: 100px;
+        margin-right: -1100px;
+    }
+    
+    .h0-index, .h1-index, .h2-index, .h3-index{
+        margin-right: -900px;
+    }
+    .p0-index, .p1-index, .p2-index, .p3-index{
+        margin-right: -1200px;
+    }
+    
+    .informacion-añadida{
+        margin-left: 600px;
+       
+    }
+    .informacion-añadida1, .informacion-añadida2, .informacion-añadida3{
+        margin-left: -150px;
+        margin-right: -150px;
+    }
+    .informacion-añadida2{
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+    .section-tarot{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+   
+    .section-rituales{
+        margin-left: -50px;
+        margin-right: -750px;
+    }
+    .section-amarres{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+    .section-destierro{
+        margin-left: -50px;
+        margin-right: 800px;
+    }
+    .tarot-section-parrafo{
+        margin-right: -50px;
+    }
+    .rituales-section-parrafo{
+        margin-right: -200px;
+    
+      
+    }
+    .amarres-section-parrafo{
+        margin-right: -100px;
+        margin-left: -100px;
+    }
+    .amarres-section-titulo{
+        margin-left: -200px;
+    }
+    .rituales-section-titulo{
+        margin-left: 200px;
+    }
+    .destierro-section-parrafo{
+        margin-right: -1690px;
+        
+    }
+    .destierro-section-titulo{
+        margin-left: 140px;
+    }
+    .img102{
+        margin-left: 1100px;
+    }
+    .img103{
+        margin-left: -200px;
+    }
+    .img104{
+        margin-left: 1100px;
+    }
+    .btn676, .btn678 {
+        margin-left: 800px;
+    }
+    .btn679{
+        margin-left: 195px;
+    } 
+    .btn678{
+        margin-left: 550px;
+    }
+     
+    .heroe-tarot{
+        margin-left: 500px;
+        margin-right: -900px;
+    }
+    .texto{
+        margin-top: 400px;
+        margin-left: 100px;
+     
+    }
+    .tirada-tarott{
+        margin-right: -300px;
+    }
+  
+    .poio{
+        background-color: black;
+    }
+    .kujl{
+        
+        margin-left: -25px;
+        margin-right: -200px;
+        margin-bottom: 120px;
+    }
+    .informacion-secundaria {
+        margin-left: 600px;
+        margin-right: -1400px;
+    }
+    .arcanos-mayores{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .heroe-rituales{
+        margin-left: 300px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .heroe2-rituales{
+        margin-left: 300px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .mas-rituales{
+        margin-left: -100px;
+        margin-right: -1400px;
+    }
+    .jhkdfe{
+        background-color: black;
+    }
+    .titulo-abundancia,.titulo-amor{
+        margin-left: 720px;
+        margin-top: -50px;
+    }
+    .parrafo1-abundancia, .parrafo11{
+        margin-right: -700px;
+    }
+    .btn1, .btn2{
+        margin-top: 150px;
+        margin-left: 300px;
+        margin-right: 2300px;
+    }
+    .section-amarres, .section-desamarres, .endulces{
+        margin-left: 400px;
+    }
+    .parrafo-amarres, .parrafo-desamarres {
+        margin-left: -400px;
+        margin-right: -1500px;
+    }
+    .parrafo-endulces{
+        margin-left: -150px;
+        margin-right: -750px;
+    }
+    .img-03{
+        margin-left: 500px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: -300px;
+    }
+    .titulo-endulces{
+        margin-left: -50px;
+    }
+    .informacion-amarres{
+        margin-left: -50px;
+        margin-right: -1300px;
+    }
+     .informacion-amarres2{
+        margin-left: 300px;
+     }
+     .informacion-amarres1{
+        margin-right: -100px;
+     }
+    
+    .informacion-desamarres{
+        margin-left: 100px;
+        margin-right: -250px;
+    }
+    .informacion-desamarres1{
+      
+        margin-right: 50px;
+    }
+    .informacion-desamarres2{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .informacion-desamarres3{
+        margin-right: -700px;
+        margin-left: 50px;
+    }
+    .btn10{
+        margin-left: 450px;
+        margin-right: -1300px;
+    }
+    .btn8, .btn9{
+        margin-right: -900px;
+        margin-left: -1100px;
+    }
+    .destierros-heroe, .congelamientos-heroe{
+        margin-left: 600px;
+        height: 700px;
+        
+    }
+    .kl{
+        background-color: black;
+    }
+    .parrafo1-destierros, .parrafo1-congelamientos{
+        margin-right: 50px;
+        padding: 90px 40px;
+    }
+    .destierros-titulo, .congelamientos-titulo{
+        margin-left: 00px;
+        margin-top: 20px;
+    }
+    .congelamientos-titulo{
+        margin-top: 60px;
+    }
+    .btn14, .btn15{
+        margin-left: -300px;
+        margin-right: -1000px;
+        margin-top: 120px;
+    }
+    .btn15{
+        margin-left: -300px;
+    }
+    .miuri{
+        margin-left: 0px;
+        margin-right: -1300px;
+    }
+    .consulta-aqui{
+        margin-left: 200px;
+    }
+    .jhkdb{
+        background-color: black;
+    }
+    .redes-sociales{
+        margin-left: 00px;
+        padding-top: 200px;
+    }
+    .img-01{
+        margin-left: 600px;
+    }
+    .img-02{
+        margin-left: 600px;
+    }
+    .parrafo-amarres{
+        margin-right: -700px;
+    }
+    .parrafo-desamarres{
+        margin-right: -700px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: 200px;
+    }
+    .btn8, .btn9{
+        margin-left: -300px;
+    }
+    .destierros-img, .congelamientos-img{
+        margin-left: -500px;
+    }
+}
+@media screen and (min-width:500px) and (max-width:599px){
+    #container{
+        margin-left: 750px;
+        margin-right: 2100px;
+    }
+    .color-2, .color{
+       display: none;
+    }
+    .zero-section-main, .first-section-main, .second-section-main, .contact-section-main{
+        margin-left: 100px;
+        margin-right: -1100px;
+    }
+    
+    .h0-index, .h1-index, .h2-index, .h3-index{
+        margin-right: -900px;
+    }
+    .p0-index, .p1-index, .p2-index, .p3-index{
+        margin-right: -1200px;
+    }
+    
+    .informacion-añadida{
+        margin-left: 600px;
+       
+    }
+    .informacion-añadida1, .informacion-añadida2, .informacion-añadida3{
+        margin-left: -150px;
+        margin-right: -150px;
+    }
+    .informacion-añadida2{
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+    .section-tarot{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+   
+    .section-rituales{
+        margin-left: -50px;
+        margin-right: -750px;
+    }
+    .section-amarres{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+    .section-destierro{
+        margin-left: -50px;
+        margin-right: 800px;
+    }
+    .tarot-section-parrafo{
+        margin-right: -50px;
+    }
+    .rituales-section-parrafo{
+        margin-right: -100px;
+    
+      
+    }
+    .amarres-section-parrafo{
+        margin-right: -100px;
+        margin-left: 00px;
+    }
+    .amarres-section-titulo{
+        margin-left: -100px;
+    }
+    .rituales-section-titulo{
+        margin-left: 200px;
+    }
+    .destierro-section-parrafo{
+        margin-right: -1690px;
+        
+    }
+    .destierro-section-titulo{
+        margin-left: 140px;
+    }
+    .img102{
+        margin-left: 1100px;
+    }
+    .img103{
+        margin-left: -50px;
+    }
+    .img104{
+        margin-left: 1100px;
+    }
+    .btn676, .btn678 {
+        margin-left: 800px;
+    }
+    .btn679{
+        margin-left: 195px;
+    } 
+    .btn678{
+        margin-left: 500px;
+    }
+     
+    .heroe-tarot{
+        margin-left: 500px;
+        margin-right: -900px;
+    }
+    .texto{
+        margin-top: 400px;
+        margin-left: 100px;
+     
+    }
+    .tirada-tarott{
+        margin-right: -300px;
+    }
+  
+    .poio{
+        background-color: black;
+    }
+    .kujl{
+        
+        margin-left: -25px;
+        margin-right: -200px;
+        margin-bottom: 120px;
+    }
+    .informacion-secundaria {
+        margin-left: 600px;
+        margin-right: -1400px;
+    }
+    .arcanos-mayores{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .heroe-rituales{
+        margin-left: 300px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .heroe2-rituales{
+        margin-left: 300px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .mas-rituales{
+        margin-left: -100px;
+        margin-right: -1400px;
+    }
+    .jhkdfe{
+        background-color: black;
+    }
+    .titulo-abundancia,.titulo-amor{
+        margin-left: 720px;
+        margin-top: -50px;
+    }
+    .parrafo1-abundancia, .parrafo11{
+        margin-right: -700px;
+    }
+    .btn1, .btn2{
+        margin-top: 150px;
+        margin-left: 300px;
+        margin-right: 2300px;
+    }
+    .section-amarres, .section-desamarres, .endulces{
+        margin-left: 400px;
+    }
+    .parrafo-amarres, .parrafo-desamarres {
+        margin-left: -400px;
+        margin-right: -1500px;
+    }
+    .parrafo-endulces{
+        margin-left: -150px;
+        margin-right: -750px;
+    }
+    .img-03{
+        margin-left: 500px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: -300px;
+    }
+    .titulo-endulces{
+        margin-left: -50px;
+    }
+    .informacion-amarres{
+        margin-left: -50px;
+        margin-right: -1300px;
+    }
+     .informacion-amarres2{
+        margin-left: 300px;
+     }
+     .informacion-amarres1{
+        margin-right: -100px;
+     }
+    
+    .informacion-desamarres{
+        margin-left: 100px;
+        margin-right: -250px;
+    }
+    .informacion-desamarres1{
+      
+        margin-right: 50px;
+    }
+    .informacion-desamarres2{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .informacion-desamarres3{
+        margin-right: -700px;
+        margin-left: 50px;
+    }
+    .btn10{
+        margin-left: 450px;
+        margin-right: -1300px;
+    }
+    .btn8, .btn9{
+        margin-right: -900px;
+        margin-left: -1100px;
+    }
+    .destierros-heroe, .congelamientos-heroe{
+        margin-left: 600px;
+        height: 700px;
+        
+    }
+    .kl{
+        background-color: black;
+    }
+    .parrafo1-destierros, .parrafo1-congelamientos{
+        margin-right: -350px;
+        padding: 90px 40px;
+    }
+    .destierros-titulo, .congelamientos-titulo{
+        margin-left: 400px;
+        margin-top: 90px;
+    }
+    .congelamientos-titulo{
+        margin-top: 180px;
+    }
+    .btn14, .btn15{
+        margin-left: -170px;
+        margin-right: -1000px;
+        margin-top: 60px;
+    }
+    .btn15{
+        margin-left: -170px;
+    }
+    .miuri{
+        margin-left: 0px;
+        margin-right: -1300px;
+    }
+    .consulta-aqui{
+        margin-left: 250px;
+    }
+    .jhkdb{
+        background-color: black;
+    }
+    .redes-sociales{
+        margin-left: 00px;
+        padding-top: 200px;
+    }
+    .img-01{
+        margin-left: 600px;
+    }
+    .img-02{
+        margin-left: 600px;
+    }
+    .parrafo-amarres{
+        margin-right: -700px;
+    }
+    .parrafo-desamarres{
+        margin-right: -700px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: 200px;
+    }
+    .btn8, .btn9{
+        margin-left: -300px;
+    }
+    .destierros-img, .congelamientos-img{
+        margin-left: -500px;
+    }
+}
+@media screen and (min-width:300px) and (max-width:399px){
+    #container{
+        margin-left: 550px;
+        margin-right: 2100px;
+    }
+    .color-2, .color{
+       display: none;
+    }
+    .zero-section-main, .first-section-main, .second-section-main, .contact-section-main{
+        margin-left: -50px;
+        margin-right: -1100px;
+    }
+    
+    .h0-index, .h1-index, .h2-index, .h3-index{
+        margin-right: -900px;
+    }
+    .p0-index, .p1-index, .p2-index, .p3-index{
+        margin-right: -1000px;
+    }
+    
+    .informacion-añadida{
+        margin-left: 500px;
+       
+    }
+    .informacion-añadida1, .informacion-añadida2, .informacion-añadida3{
+        margin-left: -150px;
+        margin-right: -150px;
+    }
+    .informacion-añadida2{
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+    .section-tarot{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+   
+    .section-rituales{
+        margin-left: -200px;
+        margin-right: -750px;
+    }
+    .section-amarres{
+        margin-left: -50px;
+        margin-right: -900px;
+    }
+    .section-destierro{
+        margin-left: -150px;
+        margin-right: 800px;
+    }
+    .tarot-section-parrafo{
+        margin-right: -50px;
+    }
+    .rituales-section-parrafo{
+        margin-right: -200px;
+    
+      
+    }
+    .amarres-section-parrafo{
+        margin-right: 00px;
+        margin-left: -200px;
+    }
+    .amarres-section-titulo{
+        margin-left: -350px;
+    }
+    .rituales-section-titulo{
+        margin-left: 200px;
+    }
+    .destierro-section-parrafo{
+        margin-right: -1690px;
+        
+    }
+    .destierro-section-titulo{
+        margin-left: 140px;
+    }
+    .img102{
+        margin-left: 1100px;
+    }
+    .img103{
+        margin-left: -200px;
+    }
+    .img104{
+        margin-left: 1000px;
+    }
+    .btn676, .btn678 {
+        margin-left: 800px;
+    }
+    .btn679{
+        margin-left: 225px;
+    } 
+    .btn678{
+        margin-left: 270px;
+    }
+     
+    .heroe-tarot{
+        margin-left: 50px;
+        margin-right: -1200px;
+    }
+    .texto{
+        margin-top: 400px;
+        margin-left: 100px;
+     
+    }
+    .tirada-tarott{
+        margin-right: -300px;
+    }
+    
+    .poio{
+        background-color: black;
+    }
+    .kujl{
+        
+        margin-left: -25px;
+        margin-right: -200px;
+        margin-bottom: 120px;
+    }
+    .informacion-secundaria {
+        margin-left: 600px;
+        margin-right: -1400px;
+    }
+    .arcanos-mayores{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .heroe-rituales{
+        margin-left: 100px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .heroe2-rituales{
+        margin-left: 30px;
+        margin-right: -2000px;
+        height: 600px;
+    }
+    .mas-rituales{
+        margin-left: -300px;
+        margin-right: -1400px;
+    }
+    .jhkdfe{
+        background-color: black;
+    }
+    .titulo-abundancia,.titulo-amor{
+        margin-left: 790px;
+        margin-top: -100px;
+    }
+    .parrafo1-abundancia, .parrafo11{
+        margin-right: -750px;
+    }
+    .btn1, .btn2{
+        margin-top: 150px;
+        margin-left: 400px;
+        margin-right: 2300px;
+    }
+    .section-amarres, .section-desamarres, .endulces{
+        margin-left: 250px;
+    }
+    .parrafo-amarres, .parrafo-desamarres {
+        margin-left: -400px;
+        margin-right: -1500px;
+    }
+    .parrafo-endulces{
+        margin-left: -150px;
+        margin-right: -750px;
+    }
+    .img-03{
+        margin-left: 500px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: -300px;
+    }
+    .titulo-endulces{
+        margin-left: -50px;
+    }
+    .informacion-amarres{
+        margin-left: -50px;
+        margin-right: -800px;
+    }
+     .informacion-amarres2{
+        margin-left: 300px;
+     }
+     .informacion-amarres1{
+        margin-right: -100px;
+     }
+    
+    .informacion-desamarres{
+        margin-left: 100px;
+        margin-right: -250px;
+    }
+    .informacion-desamarres1{
+      
+        margin-right: 50px;
+    }
+    .informacion-desamarres2{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .informacion-desamarres3{
+        margin-right: -700px;
+        margin-left: 50px;
+    }
+    .btn10{
+        margin-left: 450px;
+        margin-right: -1300px;
+    }
+    .btn8, .btn9{
+        margin-right: -900px;
+        margin-left: -1100px;
+    }
+    .destierros-heroe, .congelamientos-heroe{
+        margin-left: 900px;
+        height: 700px;
+        
+    }
+    .kl{
+        background-color: black;
+    }
+    .parrafo1-destierros, .parrafo1-congelamientos{
+        margin-right: 100px;
+        padding: 40px 40px;
+    }
+    .destierros-titulo, .congelamientos-titulo{
+        margin-left: -350px;
+        margin-top: 110px;
+    }
+    .congelamientos-titulo{
+        margin-top: 180px;
+    }
+    .btn14, .btn15{
+        margin-left: -420px;
+        margin-right: -1000px;
+        margin-top: 140px;
+    }
+    .btn15{
+        margin-left: -420px;
+    }
+    .miuri{
+        margin-left: -150px;
+        margin-right: -1300px;
+    }
+    .consulta-aqui{
+        margin-left: 200px;
+    }
+    .jhkdb{
+        background-color: black;
+    }
+    .redes-sociales{
+       
+        padding-top: 200px;
+    }
+    .img-01{
+        margin-left: 600px;
+    }
+    .img-02{
+        margin-left: 600px;
+    }
+    .parrafo-amarres{
+        margin-right: -700px;
+    }
+    .parrafo-desamarres{
+        margin-right: -700px;
+    }
+    .titulo-amarres, .titulo-desamarres{
+        margin-left: 200px;
+    }
+    .btn8, .btn9{
+        margin-left: -300px;
+    }
+    .destierros-img, .congelamientos-img{
+        margin-left: -800px;
+    }
+}
+@media screen and (min-width:1186px) and (max-width:1326px){
+    .rituales-section-parrafo{
+        margin-right: 420px;
+    }
+    .destierro-section-parrafo{
+        margin-right: 220px;
+    }
+}
+
+/*FOOTER*/
+@media screen and (min-width:580px) and (max-width:800px){
+    .kj7{
+        width: 1300px;
+    }
+    .grupo-2{
+        width: 2800px;
+    }
+}
+@media screen and (min-width:800px) and (max-width:1200px){
+    .kj7{
+        width: 3300px;
+    }
+    .grupo-2{
+        width: 3300px;
+    }
+}
+@media screen and (min-width:1200px) and (max-width:1326px){
+    .kj7{
+        width: 3200px;
+    }
+    .grupo-2{
+        width: 3200px;
+    }
+}
+@media screen and (min-width:480px) and (max-width:585px){
+    .box{
+        width: 2000px;
+        background-color: #b90000;
+        margin-top: -36px;
+        padding-bottom: 40px;
+        
+    }
+    footer h2{
+        background-color: #b90000;
+        text-align: center;
+    }
+    footer p{
+        background-color: #b90000;
+        text-align: center;
+    }
+    .red-social{
+      margin-left: 850px;
+    }
+    .grupo-2{
+        width: 1950px;
+        background-color: #b90000;
+        margin-top: -36px;
+    
+        
+    }
+    
+}
+@media screen and (min-width:400px) and (max-width:479px){
+    .box{
+        width: 1800px;
+        background-color: #b90000;
+        margin-top: -36px;
+        padding-bottom: 40px;
+        
+    }
+    footer h2{
+        background-color: #b90000;
+        text-align: center;
+    }
+    footer p{
+        background-color: #b90000;
+        text-align: center;
+    }
+    .red-social{
+      margin-left: 700px;
+    }
+    .grupo-2{
+        width: 1750px;
+        background-color: #b90000;
+        margin-top: -36px;
+    
+        
+    }
+    
+}
+@media screen and (min-width:300px) and (max-width:412px){
+    .box{
+        width: 1600px;
+        background-color: #b90000;
+        margin-top: -36px;
+        padding-bottom: 40px;
+        
+    }
+    footer h2{
+        background-color: #b90000;
+        text-align: center;
+    }
+    footer p{
+        background-color: #b90000;
+        text-align: center;
+    }
+    .red-social{
+      margin-left: 700px;
+    }
+    .grupo-2{
+        width: 1650px;
+        background-color: #b90000;
+        margin-top: -36px;
+    
+        
+    }
+    
+}
+@media screen and (min-width:300px) and (max-width:412px){
+    .box{
+        width: 1500px;
+        background-color: #b90000;
+        margin-top: -36px;
+        padding-bottom: 40px;
+        
+    }
+    footer h2{
+        background-color: #b90000;
+        text-align: center;
+    }
+    footer p{
+        background-color: #b90000;
+        text-align: center;
+    }
+    .red-social{
+      margin-left: 700px;
+    }
+    .grupo-2{
+        width: 1550px;
+        background-color: #b90000;
+        margin-top: -36px;
+    
+        
+    }
+    
+    
+}
+@media screen and (min-width:860px) and (max-width:1000px){
+    .pie-pagina{
+        width: 3400px;
+    }
+}
+@media screen and (min-width:381px) and (max-width:419px){
+    .pie-pagina{
+        width: 1400px;
+    }
+}
+@media screen and (min-width:1000px) and (max-width:1300px){
+    .pie-pagina{
+        width: 3600px;
+    }
+    .grupo-2{
+        width: 3550px;
+    }
+}
+/*Nav*/
+@media screen and (min-width:980px) and (max-width:1326px){
+    nav {
+        width: 2900px;
+    }
+}
+@media screen and (min-width:800px) and (max-width:979px){
+    nav {
+        width: 3200px;
+    }
+}
+@media screen and (min-width:600px) and (max-width:800px){
+    nav {
+        width: 2700px;
+    }
+}
+@media screen and (min-width:348px) and (max-width:580px){
+    nav{
+        width: 2000px;
+    }
+}
+@media screen and (min-width:580px) and (max-width:600px){
+    nav{
+        width: 2500px;
+    }
+}
+@media screen and (min-width:672px) and (max-width:800px){
+    nav{
+        width: 2800px;
+    }
+}
+@media screen and (min-width:806px) and (max-width:1020px){
+    nav{
+        width: 3300px;
+    }
+}
+@media screen and (min-width:1021px) and (max-width:1326px){
+    nav{
+        width: 3600px;
+    }
+}
+@media screen and (min-width:840px) and (max-width:1000px){
+    nav{
+        width: 3420px;
+        
+    }
+}
+@media screen and (min-width:1000px) and (max-width:1326px){
+    nav{
+        width: 3620px;
+        
+    }
+}
+@media screen and (min-width:500px) and (max-width:580px){
+    nav{
+        width: 2200px;
+    }
+}
+/*OTHERS*/
+@media screen and (min-width:1000px) and (max-width:1500px){
+.img-taroot{
+    display:none;
+}
+.tirada-tarott{
+    margin-left: 50px;
+}
+.tirada-tarot-titulo{
+    margin-left: 50px;
+}
+
+}
+@media screen and (min-width:300px) and (max-width:1000px){
+    .tirada{
+        display:none;
+    }
+    .tirada-tarot-titulo{
+        margin-right: -250px;
+        margin-top: 80px;
+    }
+    .tirada-tarott{
+        margin-right: -700px;
+    }
+    }
+/*Scroll*/
+@media screen and (min-width:300px) and (max-width:409px){
+    .sikty, .poio, .jhkdfe, .luio, .jhkdb, .kl{
+        overflow-x: hidden;
+    }
+}
+/*OTHERS*/
+@media screen and (min-width:300px) and (max-width:900px){
+    .separador{
+        height: 250px;
+        margin-top: 30px;
+    }
+}
+@media screen and (min-width:600px) and (max-width:800px){
+    .amarres-section-titulo{
+        margin-left: 0px;
+    }
+    .btn678{
+        margin-left: 650px;
+    }
+}
+@media screen and (min-width:1000px) and (max-width:1144px){
+.kujl{
+    margin-top: 200px;
+}
+}
+@media screen and (min-width:800px) and (max-width:999px){
+    .kujl{
+        margin-top: 400px;
+        margin-left: 300px;
+        margin-right: -600px;
+    }
+    }
+@media screen and (min-width:300px) and (max-width:1350px){
+        .heroe-rituales{
+            height: 700px;
+        }
+        .heroe2-rituales{
+            height: 700px;
+        }
+    }
+@media screen and (min-width:300px) and (max-width:400px){
+    .btn10{
+        margin-left: 250px;
+    }
+}
+@media screen and (min-width:300px) and (max-width:600px){
+    .red-social{
+        margin-left: 0px;
+    }
+}
+@media screen and (min-width:600px) and (max-width:800px){
+    .redes-sociales{
+        padding-top: 200px;
+    }
+}
+ /*COLORS*/
+/* @media screen and (min-width:300px) and (max-width:900px){
+    .color{
+        display: none;
+    }
+    .color-2{
+        display: none;
+    }
+ }
+ @media screen and (min-width:900px) and (max-width:1000px){
+    .color{
+        width: 200px;
+        height: 5812px;
+    }
+    .color-2{
+        width: 250px;
+        margin-left: 3150px;
+        height: 5812px;
+    }
+ }
+ @media screen and (min-width:1000px) and (max-width:1320px){
+    .color{
+        width: 200px;
+    }
+    .color-2{
+        width: 200px;
+        margin-left: 3400px;
+    }
+ }
+ @media screen and (min-width:950px) and (max-width:1013px){
+    .color{
+        height: 5682px;
+    }
+    .color-2{
+        height: 5682px;
+    }
+ }
+ @media screen and (min-width:1013px) and (max-width:1300px){
+    .color{
+        height: 5800px;
+        background-color: #b90000;
+    }
+    .color-2{
+        height: 5800px;
+        background-color: #b90000;
+    }
+ }
+/*
+
+ /*TAROT*/
+ .color{
+    display: none;
+ }
+ .color-2{
+    display: none;
+ }
+ @media screen and (min-width:600px) and (max-width:800px){
+    .heroe-tarot{
+        margin-left: 300px;
+    }
+    .kujl{
+        margin-top: 400px;
+        margin-left: 400px;
+        margin-right: -700px;
+    }
+ }
+ @media screen and (min-width:300px) and (max-width:500px){
+    
+    .kujl{
+        margin-top: 200px;
+        margin-left: 400px;
+        margin-right: -700px;
+    }
+    .jeuehfj{
+        margin-left: -600px;
+        margin-right: 100px;
+    }
+ }
+ @media screen and (min-width:300px) and (max-width:450px){
+    .jeuehfj{
+        margin-left: -600px;
+    }
+    .que-es-el-tarot{
+        margin-right: 20px;
+    }
+    .arcanos-mayores{
+        margin-right: 20px;
+    }
+    .tarot-historia{
+        margin-right: 600px;
+    }
+ }
+ @media screen and (min-width:500px) and (max-width:600px){
+    .jeuehfj
+    {
+        margin-left: -600px;
+    }
+    .kujl{
+        margin-top: 200px;
+        margin-left: 400px;
+        margin-right: -700px;
+    }
+ }
+ @media screen and (min-width:800px) and (max-width:1300px){
+    .jeuehfj{
+        margin-top: 150px;
+        margin-left: 700px;
+    }
+ }
+ @media screen and (min-width:300px) and (max-width:1300px){
+    #container{
+        padding: 100px 200px;
+    }
+ }

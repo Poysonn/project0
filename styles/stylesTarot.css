@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&display=swap');
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans','Lato' ;
+    font-size: 12px;
+}
+
+.heroe-tarot{
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+main{
+    background-color: black;
+}
+.heroe-tarot img{
+    max-width: 100%;
+    max-height: 50%;
+    object-fit: contain;
+    margin: 0;
+    padding: 0;
+
+}
+.heroe-tarot .img-ajust{
+    width: 500px;
+    height: 500px;
+    margin: 50px 0px 0px 80px;
+    padding: 0;
+    margin-left: 150px;
+}
+.tirada-de-tarot-titulo{
+    display: flex;
+    flex-wrap: wrap;
+    margin: -40px 0 0 0;
+    padding: 0;
+    
+
+    
+
+}
+
+.tirada-tarott{
+    margin: -15px 0 20px 0;
+    margin-left: 0px;
+    margin-right: 180px;
+    color: white;
+}
+.tirada-tarot-titulo{
+    padding-bottom: 10px;
+    font-weight: 600;
+    margin-top: -10px;
+    margin-left: 10px;
+    color: white;
+}
+.texto{
+    width: 100vh;
+    height: 100vh;
+    margin: 150px 0px 00px ;
+    color: white;
+
+    
+}
+.separador{
+    margin: 0;
+    padding: 20;
+}
+.mas-info{
+    margin: 0;
+    padding: 0;
+}
+
+.informacion-secundaria{
+    position: absolute;
+    margin: 0px 80px 80px 80px ;
+    background-color: black;
+    margin-top: -300px ;
+    padding-bottom: 68px;
+    
+    
+}
+.que-es-el-tarot{
+    margin: 80px 60px 80px 80px ;
+    margin-left: 100px;
+}
+.arcanos-mayores{
+    margin: 80px 60px 80px 80px ;
+}
+.tarot-historia{
+    margin: 80px 60px 80px 80px ;
+    margin-right: 100px;
+}
+.bttn{
+    margin-top: 150px;
+    margin-left: -500px;
+    font-size: 18px;
+}
+.que-es-el-tarot, .arcanos-mayores, .tarot-historia{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 3px 6px .2px 2px rgb(184, 176, 176);
+    padding: 9px 9px;
+    color: rgb(255, 255, 255);
+}
+.tarot-pregunta, .arcanos-pregunta, .creacion-tarot{
+    font-weight: 600;
+}
+.parrafo-1, .parrafo-2, .parrafo-3{
+    font-size: 18px ;
+}
+.color{
+    background-color: #fd2921;
+    margin: 0 0;
+width: 150px;
+height: 2814px;
+position: absolute;
+z-index: 8;
+}
+.color-2{
+    background-color:#fd2921;
+    margin-top: 00 ;
+width: 150px;
+height: 2814px;
+position: absolute;
+
+margin-left: 1199px;
+}
+.pie-pagina{
+    margin-top: 2000px;
+    
+}
